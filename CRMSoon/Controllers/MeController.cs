@@ -19,7 +19,7 @@ namespace CRMSoon.Controllers
     {
         private ApplicationUserManager _userManager;
 
-        public MeController()
+        public MeController() 
         {
         }
 
